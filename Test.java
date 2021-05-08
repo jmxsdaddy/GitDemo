@@ -3,5 +3,6 @@ class Test {
 		System.out.println("test");
 		System.out.println("done");
 		System.out.println("second time update by git command");
+		System.out.println("first time eidt by server");
 	}
 }
