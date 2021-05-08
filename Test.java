@@ -5,5 +5,6 @@ class Test {
 		System.out.println("second time update by git command");
 		System.out.println("first time eidt by server");
 		System.out.println("second time eidt by server");
+		System.out.println("second time eidt by client");
 	}
 }
